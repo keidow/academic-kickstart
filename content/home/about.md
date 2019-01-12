@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Theological anthropology",
+    "Existential philosophy",
+    "Practical Theology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Theology"
+  institution = "Vrije Universiteit Amsterdam"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MA Philosophy"
+  institution = "Dominican University College"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Phil, B.A."
+  institution = "DUC, Briercrest College"
+  # year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, I serve on the Organizational and Spiritual Life team with Christian Horizons (www.christian-horizons.org), a faith-based organization working with people with intellectual disabilities in Canada and around the world. I'm a credentialed pastor with BIC Canada and am wrapping up my PhD in Theology at the VU University of Amsterdam. My academic work explores the ethical and theological motivation and formation of care, under the direction of Hans Reinders and Tom Reynolds. I live just South of Ottawa, Ontario with his wife Darcie and their three children.
