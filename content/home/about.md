@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Thanks for visiting my site! I work with the Organizational and Spiritual Life team at Christian Horizons, a faith-based organization working with people with intellectual disabilities in Canada and around the world. I'm a credentialed pastor with BIC Canada and am wrapping up my PhD in Theology at the VU University of Amsterdam. My academic work explores the ethical and theological motivation and formation of care, under the direction of Hans Reinders and Tom Reynolds. I live just South of Ottawa, Ontario with his wife Darcie and their three children.
+Thanks for visiting my site! I work with the Organizational and Spiritual Life team at Christian Horizons, a faith-based organization working with people with intellectual disabilities in Canada and around the world. I'm a credentialed pastor with BIC Canada and am wrapping up my PhD in Theology at the VU University of Amsterdam. My academic work explores the ethical and theological motivation and formation of care, under the direction of Hans Reinders and Tom Reynolds. I live just South of Ottawa, Ontario with my wife Darcie, our three children, and a peculiar dog named Milo.
