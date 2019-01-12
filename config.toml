@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://kdow.ca/"
 
 # Title of your site
-title = "Academic"
+title = "Keith Dow"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -23,7 +23,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "keidow"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -52,19 +52,19 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Keith Dow"
+  role = "Manager of Organizational and Spiritual Life"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Christian Horizons", url = "http://www.christian-horizons.org" }, {name="Disability & Faith Forum", url="http://www.disabilityandfaith.org"} ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "keidow@gmail.com"
+  address = "1915 Hyndman Rd. Spencerville, ON K0E 1X0"
   office_hours = """
   Monday 10:00 to 13:00<br>
   Wednesday 09:00 to 10:00<br>
