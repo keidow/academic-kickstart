@@ -22,7 +22,7 @@ weight = 5
   year = 2019
 
 [[education.courses]]
-  course = "MA Philosophy"
+  course = "MA in Philosophy"
   institution = "Dominican University College"
   year = 2009
 
