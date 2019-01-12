@@ -64,16 +64,16 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "keidow@gmail.com"
-  address = "1915 Hyndman Rd. Spencerville, ON K0E 1X0"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  # address = "1915 Hyndman Rd. Spencerville, ON K0E 1X0"
+  # office_hours = """
+  # Monday 10:00 to 13:00<br>
+  # Wednesday 09:00 to 10:00<br>
+  # Otherwise email to book an appointment
+ #  """
+  # phone = "888 888 88 88"
+  skype = "kdowch"
+  # telegram = ""
+  # keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -107,13 +107,13 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "dark"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -122,7 +122,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "keidow"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
