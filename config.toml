@@ -271,9 +271,14 @@ enableGitInfo = false
     link = "https://twitter.com/GeorgeCushen"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/keithdow"
+
+ # [[params.social]]
+ #   icon = "google-scholar"
+#    icon_pack = "ai"
+#    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
@@ -300,22 +305,22 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-# [[menu.main]]
+ [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
   weight = 2
 
-# [[menu.main]]
+ [[menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 3
 
-# [[menu.main]]
+ [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
 
-# [[menu.main]]
+ [[menu.main]]
   name = "Tutorials"
   url = "/tutorial/"
   weight = 5
