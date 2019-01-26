@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = "keidow"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-133278258-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Keith Dow"
-  role = "Manager of Organizational and Spiritual Life"
+  role = "Pastor, teacher, writer, and scholar serving as Manager of Organizational and Spiritual Life with Christian Horizons"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{name = "Academia.edu Profile", url = "https://vu-nl.academia.edu/KeithDow"}, { name = "Christian Horizons", url = "http://www.christian-horizons.org" }, {name="Disability & Faith Forum", url="http://www.disabilityandfaith.org"} ]
+  organizations = [{name = "Academia Profile", url = "https://vu-nl.academia.edu/KeithDow"}, { name = "Christian Horizons", url = "http://www.christian-horizons.org" }, {name="Disability & Faith Forum", url="http://www.disabilityandfaith.org"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -116,7 +116,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "I believe that the call to care lies at the heart of our beautiful and broken humanity."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
