@@ -53,8 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Keith Dow"
-  role = "Pastor, teacher, writer, and scholar serving as Manager of Organizational and Spiritual Life with Christian Horizons"
-
+  role = "Pastor, teacher, writer, and scholar"
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [{name = "Academia Profile", url = "https://vu-nl.academia.edu/KeithDow"}, { name = "Christian Horizons", url = "http://www.christian-horizons.org" }, {name="Disability & Faith Forum", url="http://www.disabilityandfaith.org"} ]
